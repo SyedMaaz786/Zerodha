@@ -1,6 +1,6 @@
 import React from 'react';
-import Hero from '../about/Hero';
-import Team from '../about/Team';
+import Hero from './Hero';
+import Team from './Team';
 
 
 function AboutPage() {

@@ -9,16 +9,17 @@ function Hero() {                          //All the styling has been done using
           alt="Hero Image"
           className="mb-5"
         />
-        <h1 className="mt-5">Invest in everything</h1>
-        <p>
+        <h1 className="mt-5 display-3 fw-bold">Invest in everything</h1>
+        <p className="fs-5">
+          Zerodha, India's largest stockbroker, offers the lowest, cheapest brokerage rates in India.
           Online platform to invest in stocks, derivatives, mutual funds, and
           more.
         </p>
         <button
-          className="p-2 btn btn-primary fs-5 mb-5"
-          style={{ width: "20%", margin: "0 auto" }}
+          className="p-2 btn btn-primary fs-5 mb-5 rounded"
+          
         >
-          Signup now
+          Sign up now
         </button>
       </div>
     </div>

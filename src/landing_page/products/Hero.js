@@ -2,7 +2,12 @@ import React from 'react';
 
 function Hero() {
     return (
-        <h1>Hero</h1>
+        <div className="container p-5">
+            <div className="row text-center">
+                <h1 className="display-4 fw-bold mb-3">Products</h1>
+                <h2 className="fs-3 text-muted">Trade with confidence, invest with conviction.</h2>
+            </div>
+        </div>
     );
 }
 

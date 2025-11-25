@@ -8,8 +8,8 @@ function Awards() {
           <img src="media/images/largestBroker.svg" />
         </div>
         <div className="col-6 p-5 mt-5">
-          <h1>Largest stock broker in India</h1>
-          <p className="mb-5">
+          <h1 className="display-5 fw-bold">Largest stock broker in India</h1>
+          <p className="fs-5">
             2+ million clients contribute to over 15% of all retail order
             volumes in India daily by trading and investing in:
           </p>
@@ -20,10 +20,10 @@ function Awards() {
                   <p>Futures and Options</p>
                 </li>
                 <li>
-                  <p>Commonly derivatives</p>
+                  <p>Equity & IPOs</p>
                 </li>
                 <li>
-                  <p>Currency derivatives</p>
+                  <p>Commodity Derivatives</p>
                 </li>
               </ul>
             </div>
@@ -36,12 +36,12 @@ function Awards() {
                   <p>Direct mutual funds</p>
                 </li>
                 <li>
-                  <p>Bonds and Options</p>
+                  <p>Bonds and Govt. Securities</p>
                 </li>
               </ul>
             </div>
           </div>
-          <img src="media/images/pressLogos.png" style={{ width: "90%" }} />
+          <img src="media/images/pressLogos.png" className="mt-4" />
         </div>
       </div>
     </div>
