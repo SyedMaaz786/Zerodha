@@ -1,7 +1,6 @@
 import React from "react";
 
-function Hero() {
-  //All the styling has been done using the bootstrap classes.
+function Hero() {                          //All the styling has been done using the bootstrap classes.
   return (
     <div className="container p-5 mb-5">
       <div className="row text-center">
